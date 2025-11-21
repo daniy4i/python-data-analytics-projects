@@ -1,4 +1,3 @@
-# python-data-analytics-projects
 # Python Data Analytics Projects
 
 A curated collection of Python data analytics projects completed using real-world datasets.  
